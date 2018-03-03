@@ -42,3 +42,11 @@ h1, h2, h3, h4 {
 .post h1 a, .post h1 a:visited {
     color: #000000;
 }
+
+.profile-header{
+    padding: 20px 20px 20px 40px;
+}
+
+.profile-header, h2{
+    text-align: center;
+}
